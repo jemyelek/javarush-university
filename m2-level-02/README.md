@@ -7,7 +7,7 @@
 
 ### Абстрактные классы
 1. **Абстрактные классы: основы и правила** (Слайды 2-5)  
-   [Slide02_AbstractClassDemo.java](src/main/java/com/javarush/example/Slide02_AbstractClassDemo.java)  
+   [Slide02_AbstractClassDemo.java](src/main/java/com/javarush/personal/example/Slide02_AbstractClassDemo.java)  
    *Демонстрация абстрактных классов: синтаксис, правила создания, наследование, полиморфизм.*
 
 2. **Почему классы называют абстрактными** (Слайд 4)  
@@ -21,9 +21,9 @@
 
 ### Перегрузка и переопределение методов
 5. **Перегрузка методов (Overloading)** (Слайд 8)  
-   [Slide08_OverloadOverrideDemo.java](src/main/java/com/javarush/example/Slide08_OverloadOverrideDemo.java)  
+   [Slide08_OverloadOverrideDemo.java](src/main/java/com/javarush/personal/example/Slide08_OverloadOverrideDemo.java)  
    *Демонстрация перегрузки: разные сигнатуры методов, автоматическое расширение типов.*
 
 6. **Переопределение методов (Overriding)** (Слайды 9-11)  
-   [Slide08_OverloadOverrideDemo.java](src/main/java/com/javarush/example/Slide08_OverloadOverrideDemo.java)  
+   [Slide08_OverloadOverrideDemo.java](src/main/java/com/javarush/personal/example/Slide08_OverloadOverrideDemo.java)  
    *Демонстрация переопределения: полиморфизм, ограничения, преимущества единого интерфейса.*

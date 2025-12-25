@@ -1,4 +1,4 @@
-package com.javarush.example;
+package com.javarush.personal.example;
 
 /**
  * Демонстрация абстрактных классов.
