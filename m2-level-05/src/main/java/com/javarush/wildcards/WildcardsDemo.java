@@ -5,11 +5,11 @@ import java.util.List;
 
 public class WildcardsDemo {
     static class Animal {}
-    static class Cat extends Animal {}
+//    static class Cat extends Animal {}
 
     public static void main(String[] args) {
-        List<Cat> catList = new ArrayList<>();
-        catList.add(new Cat());
+        /*List<Cat> catList = new ArrayList<>();
+//        catList.add(new Cat());
 
         // PECS = (P)roducer (E)xtends, (C)onsumer (S)uper
 
@@ -22,7 +22,7 @@ public class WildcardsDemo {
         List<? super Cat> catList2 = new ArrayList<Animal>();
         catList2.add(new Cat()); // добавление возможно
         // Cat cat = catList2.get(0);  // чтение как не Object не работает
-        Object o = catList2.get(0);  // чтение как Object!
+        Object o = catList2.get(0);  // чтение как Object!*/
     }
 
 }
