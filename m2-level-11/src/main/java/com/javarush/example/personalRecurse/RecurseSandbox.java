@@ -1,4 +1,4 @@
-package com.javarush.example.personal;
+package com.javarush.example.personalRecurse;
 
 import java.io.File;
 
