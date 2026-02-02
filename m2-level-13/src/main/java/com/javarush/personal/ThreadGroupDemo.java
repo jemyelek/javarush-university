@@ -1,4 +1,4 @@
-package com.javarush.example.personal;
+package com.javarush.personal;
 
 public class ThreadGroupDemo {
     public static void main(String[] args) throws InterruptedException {

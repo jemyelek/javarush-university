@@ -1,4 +1,4 @@
-package com.javarush.example.personal;
+package com.javarush.personal;
 
 import java.util.concurrent.*;
 
