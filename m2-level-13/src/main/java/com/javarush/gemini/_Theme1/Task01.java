@@ -23,5 +23,6 @@ public class Task01 {
         executor.shutdown();
         executor.awaitTermination(10, TimeUnit.SECONDS);
         System.out.println("Работа доставки завершен.");
+
     }
 }
